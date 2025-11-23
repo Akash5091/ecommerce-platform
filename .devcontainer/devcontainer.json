@@ -2,8 +2,7 @@
   "name": "E-Commerce Platform",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "frontend",
-  "workspaceFolder": "/workspace",
-  "forwardPorts": [5173, 5000, 27017],
+  "workspaceFolder": "/workspaces/ecommerce-platform",  "forwardPorts": [5173, 5000, 27017],
   "portsAttributes": {
     "5173": {
       "label": "Frontend (Vite)",
