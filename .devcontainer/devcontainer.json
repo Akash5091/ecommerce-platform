@@ -33,5 +33,4 @@
     }
   },
   "postCreateCommand": "cd /workspace/backend && npm install && cd /workspace/frontend && npm install",
-  "postStartCommand": "docker-compose up -d"
 }
